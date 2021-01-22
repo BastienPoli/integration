@@ -1,0 +1,402 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('polices/police-texte.ttf');
+}
+
+header {
+    background-image: url(photos/header.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 960px;
+    width: 1440px;
+}
+
+header,h2 {
+    margin-top: 0px;
+    padding-right: 133px;
+    padding-left: 20px;
+}
+
+.head {
+    display: flex;
+    padding-top: 30px;
+}
+
+.site-search {
+    height: 39px;
+    width: 400px;
+    border-radius: 25px;
+}
+
+.menu {
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 171px;
+}
+
+.user-account {
+    width: 22px;
+    height: 30px;
+    margin-left: 40px
+}
+
+.shopping-cart {
+    width: 30px;
+    height: 25px;
+    margin-left: 26px;
+}
+
+.first-option {
+    padding-top: 120px;
+    margin-left: 170px;
+}
+
+.second-option {
+    margin-top: 300px;
+    margin-left: 500px;
+}
+
+.fly-sites {
+    margin-left: 130px;
+}
+
+h2 {
+    font-family: poppins;
+    font-size: 25px;
+}
+
+.discover-offer {
+    height: 43px;
+    width: 180px;
+    border-radius: 20px;
+    background-color: #E79E44;
+    color: white;
+    margin-left: 60px;
+    border: none;
+}
+
+.fly-sites {
+    height: 43px;
+    width: 180px;
+    border-radius: 20px;
+    background-color: #E79E44;
+    color: white;
+    border: none;
+}
+
+.auvergne {
+    background-image: url(photos/section1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-top-width: 50px;
+    height: 960px;
+    width: 1440px;
+}
+
+.container-auvergne {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 500px;
+    padding-left: 100px;
+}
+
+.title-auvergne {
+    padding-left: 180px;
+    margin-bottom: 0px;
+}
+
+.text-auvergne {
+    padding-left: 0px;
+    padding-right: 50px
+}
+
+.discover_offer {
+    margin-top: 20px;
+    height: 43px;
+    width: 180px;
+    border-radius: 20px;
+    background-color: #E79E44;
+    color: white;
+    margin-left: 0px;
+    margin-right: 20px;
+    border: none;
+}
+
+.title-advice {
+    padding-left: 480px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.container-advices {
+    display: flex;
+}
+
+.gabriel {
+    width: 314px;
+    height: 230px;
+    padding-left: 20px;
+    border-width: initial;
+    border: solid;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-right: 188px;
+    margin-left: 50px;
+    text-align: center;
+    border-top-width: 1px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px
+}
+
+.note {
+    padding-right: 0px;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-top: 30px;
+    height: 20px;
+}
+
+.note,p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.cercle {
+    width: 13px;
+    height: 13px;
+    border-radius: 20px;
+    background: #E79E44;
+    padding-top: 0px;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.Alexis {
+    width: 314px;
+    height: 230px;
+    padding-left: 20px;
+    border-width: initial;
+    border: solid;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-right: 188px;
+    margin-left: 50px;
+    text-align: center;
+    border-top-width: 1px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px
+}
+
+
+.Jean {
+    padding-left: 188px;
+    width: 314px;
+    height: 230px;
+    width: 314px;
+    height: 230px;
+    padding-left: 20px;
+    border-width: initial;
+    border: solid;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-right: 188px;
+    margin-left: 50px;
+    text-align: center;
+    border-top-width: 1px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px
+}
+
+
+.show-more {
+    height: 43px;
+    width: 180px;
+    border-radius: 20px;
+    background-color: #E79E44;
+    color: white;
+    border: none;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+}
+
+.footer-sect {
+    height: 400px;
+}
+.first-footer {
+    display: flex;
+}
+.first-images {
+    display: flex;
+    margin-left: 50px;
+}
+
+.paiement {
+    width: 140px;
+    height: 58px
+}
+
+.bitcoin {
+    width: 136px;
+    height: 46px;
+}
+
+.ancv {
+    width: 89px;
+    height: 55px;
+}
+
+.second-images {
+    display: flex;
+    align-self: flex-end;
+    margin-left: -350px;
+    margin-bottom: 2900px;
+    margin-top: 55px;
+    margin-right: 200px;
+}
+
+.atout {
+    width: 155px;
+    height: 80px;
+}
+
+.tripadvisor {
+    width: 108px;
+}
+
+.contact {
+    margin-right: 200px;
+    text-align:center;
+}
+
+.container-mail {
+    display: flex;
+    margin-top: 20px;
+}
+
+.mail {
+    width: 31px;
+    margin-right:10px;
+}
+
+.container-telephone {
+    display: flex;
+    margin-top: 20px;
+}
+
+.telephone {
+    width: 27px;
+    height: 29px;
+    margin-right: 10px;
+}
+
+
+.newsletter-title {
+    margin-left: 120px;
+}
+
+.text-offer {
+    margin-left: 50px;
+}
+
+.buttons-news {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.news-button {
+    width: 290px;
+    height: 39px;
+    background-color:#E79E44;
+    color: white;
+    border:none;
+    text-align: left;
+}
+.submit {
+    background-color:#E79E44;
+    color: white;
+    border:none;
+}
+
+.social-media {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.media-text {
+    margin-left: 120px;
+}
+
+.youtube {
+    width: 30px;
+    height: 27px;
+    margin-right:7px;
+}
+
+.facebook {
+    width: 150px;
+    margin-bottom: 100px;
+}
+
+.insta {
+    width: 30px;
+    margin-bottom: 145px;
+    margin-left: -115px;
+    margin-right: 6px;
+}
+
+.flickr {
+    width: 30px;
+    height: 30px;
+}
+
+.pinterest {
+    width: 30px;
+    height: 30px;
+    margin-left: 6px;
+}
+
+.twitter {
+    width: 30px;
+    height: 30px;
+    margin-left: 6px;
+}
+
+.footer-para {
+    display:flex;
+}
+
+.first-para {
+    margin-left: 300px;
+}
+
+.second-para {
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.dgac {
+    width: 103px;
+    margin-top: 50px;
+}
+
+.container-text {
+    margin-left: 120px;
+    margin-top: -110px;
+}
+
+.dgac-text {
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+.dgac_text {
+    width: 600px;
+}
